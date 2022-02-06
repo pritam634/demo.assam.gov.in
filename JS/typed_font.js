@@ -25,7 +25,7 @@ var typed3 = new Typed('.type3', {
 });
 var typed4 = new Typed('.type4', {
     strings: [
-        'Thing to do in Golaghat'
+        'Date of deploy communication'
     ],
     typeSpeed: 20,
     backSpeed: 10,

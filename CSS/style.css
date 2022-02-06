@@ -361,7 +361,7 @@ footer .left p {
     position: fixed;
     height: 100%;
     background: #111;
-    width: 50%;
+    width: 70%;
     right: 0;
     top: 70px;
     padding: 20px;
@@ -464,5 +464,8 @@ ul.mobile_nav_menu .dropdown-menu.open_dropdown a {
     }
     .home .bg_img h3 {
         font-size: 4rem;
+    }
+    .main_content .flex_box .img_box {
+        width: 350px;
     }
 }
